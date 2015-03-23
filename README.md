@@ -7,3 +7,10 @@ git pull <remote>
 Fetch the specified remote’s copy of the current branch and immediately merge it into the local copy. This is the same as git fetch <remote> followed by git merge origin/<current-branch>.
 
 git pull remote@github/test/test
+
+https://www.atlassian.com/git/tutorials/syncing/git-push
+
+
+example of git url
+
+git@github.com:AIqbal1/f.git
