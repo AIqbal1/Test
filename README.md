@@ -5,3 +5,5 @@ Merging upstream changes into your local repository is a common task in Git-base
 Usage
 git pull <remote>
 Fetch the specified remote’s copy of the current branch and immediately merge it into the local copy. This is the same as git fetch <remote> followed by git merge origin/<current-branch>.
+
+git pull <remote>
